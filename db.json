@@ -1,0 +1,92 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "signupusers": [
+    {
+      "id": "7d85",
+      "fullname": "vbdvb",
+      "mobile": 564654,
+      "email": "ddds",
+      "password": "sddsfds"
+    },
+    {
+      "id": "424",
+      "fullname": "ahmed",
+      "mobile": 25222424,
+      "email": "schni",
+      "password": "schni"
+    },
+    {
+      "id": "ae86",
+      "fullname": "yassin nouri",
+      "mobile": 25296775,
+      "email": "schnieder2003@gmail.com",
+      "password": "yassinhero"
+    },
+    {
+      "id": "9503",
+      "fullname": "",
+      "mobile": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "10c4",
+      "fullname": "hayet kahri",
+      "mobile": 99734998,
+      "email": "hayetkahri1966@gmail.com",
+      "password": "hayet1966"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "id": "ab0c",
+      "FirstName": "ons",
+      "LastName": "",
+      "dob": "2024-03-31T22:00:00.000Z",
+      "email": "onskamoun547@gmail.com",
+      "gender": "female",
+      "stprec": "chercheure et enseignante à l’École supérieure de l’audiovisuel et du cinéma, à La Presse : «Depuis l’année 2015, Chikli m’obsède",
+      "poste": "autre",
+      "experience": 2,
+      "package": "ons.kamoun"
+    },
+    {
+      "FirstName": "yassin",
+      "LastName": "",
+      "dob": "2023-10-18T22:00:00.000Z",
+      "email": "fathoula254@gmail.com",
+      "gender": "male",
+      "stprec": "Brumes locales et températures en légère baisse",
+      "poste": "météo",
+      "experience": 2,
+      "package": "fathel.arfaoui54",
+      "id": "aca9"
+    }
+  ]
+}
